@@ -1,5 +1,3 @@
-Area-di-Progetto
-================
 <HTML>
 <HEAD>
 <title>Inserisci Segnalazione</title>
